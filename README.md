@@ -38,15 +38,6 @@ Here are some ideas to get you started:
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=devstm&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "devstm's Languages/Frameworks" width = 400 />
 </p>
 
-<p align = "center">
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-<img src="https://badges.aleen42.com/src/javascript.svg" />
-![api's](https://img.shields.io/badge/-API'S-333333?style=flat&logo=api's)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![php](https://img.shields.io/badge/-php-333333?style=flat&logo=git)
-</p>
-
 <br />
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
