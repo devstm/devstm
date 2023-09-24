@@ -5,8 +5,7 @@ full-stack web developer and somebody who already has the skills and qualities t
 </p>
 <h2>Skills: </h2>
   - JavaScript
-  <br />
-
+<br />
   - TypeScript
 <br />
   - React.js
