@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 ## Life doesn't have Ctrl-Z, but the code does.
 
-### full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience using state of art technologies. 
+full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience using state of art technologies. 
 
 ## Skills:
   - JavaScript
