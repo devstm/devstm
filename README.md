@@ -3,38 +3,62 @@
 <p>
 full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience using state of art technologies. 
 </p>
-<h1>Skills: </h1>
+<h2>Skills: </h2>
   - JavaScript
+  <br />
+
   - TypeScript
+<br />
   - React.js
+<br />
   - Next.js
+<br />
   - JQuery
+<br />
   - PHP Laravel
+<br />
   - Express.js
+<br />
   - NestJs
+<br />
   - MySql
+<br />
   - PostgreSQL.
 <br />
 <br />
 
-<h1>Other Skills: </h1>
+<h2>Other Skills: </h2>
   - Vue.js
+<br />
   - MongoDB
+<br />
   - Git: Github, Gitlab, Bitbucket
+<br />
   - AWS S3
+<br />
   - AWS Cognito
+<br />
   - AWS serverless
+<br />
   - AWS RDS
+<br />
   - Jira
+<br />
   - Trello
+<br />
 
-<h1>personal skills:</h1>
+<h2>personal skills:</h2>
  - Strong team player
+<br />
  - Excellent communication
+<br />
  - Team Leader
+<br />
  - Problem-solving 
+<br />
+<br />
 
-<h1>Summary:</h1>
+<h2>Summary:</h2>
 Junior full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. I have years of experience in web development using the latest frameworks and libraries such as Laravel, Node.js, Express.js, Nest.js, React.js, and Next.js. I also have team working and communication skills. and I also have an academic background that added to me  an extra value in this field.
 
 <br />
