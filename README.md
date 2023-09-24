@@ -2,7 +2,6 @@
 
 <!--
 **MKhasib/mkhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h3> Life doesn't have Ctrl-Z, but the code does </h3>
 
 Here are some ideas to get you started:
 
@@ -12,14 +11,43 @@ Here are some ideas to get you started:
 - 📫 How to reach me: stm1998@hotmail.com
 - 😄 Pronouns: Happy
 -->
+## Life doesn't have Ctrl-Z, but the code does.
 
-<h1>About Me 📌</h1>
+### full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience using state of art technologies. 
 
-- 👋 I am Saleh T. Marouf
-- 🔭 I have +1 years of experince working as a full-stack web development
-- 💻 I worked as a laravel developer at a local startup
-- 💁‍♂️ Computer Engineering graduate from IUG
-- 🌱 I am currently focusing on learning Javascript
+## Skills:
+  - JavaScript
+  - TypeScript
+  - React.js
+  - Next.js
+  - JQuery
+  - PHP Laravel
+  - Express.js
+  - NestJs
+  - MySql
+  - PostgreSQL.
+<br />
+<br />
+
+## Other Skills: 
+  - Vue.js
+  - MongoDB
+  - Git: Github, Gitlab, Bitbucket
+  - AWS S3
+  - AWS Cognito
+  - AWS serverless
+  - AWS RDS
+  - Jira
+  - Trello
+
+## personal skills:
+ - Strong team player
+ - Excellent communication
+ - Team Leader
+ - Problem-solving 
+
+## Summary
+Junior full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. I have years of experience in web development using the latest frameworks and libraries such as Laravel, Node.js, Express.js, Nest.js, React.js, and Next.js. I also have team working and communication skills. and I also have an academic background that added to me  an extra value in this field.
 
 <br />
 
