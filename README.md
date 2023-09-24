@@ -1,21 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
-
-<!--
-**MKhasib/mkhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m Full-Stack Web Developer 
-- 💁‍♂️ Student at GSG cohortCareer Accelerator Program 
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me: stm1998@hotmail.com
-- 😄 Pronouns: Happy
--->
-## Life doesn't have Ctrl-Z, but the code does.
-
+<h1> Saleh T. Marouf </h1>
+<h5> Life doesn't have Ctrl-Z, but the code does.</h5>
+<p>
 full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience using state of art technologies. 
-
-## Skills:
+</p>
+<h1>Skills: </h1>
   - JavaScript
   - TypeScript
   - React.js
@@ -29,7 +17,7 @@ full-stack web developer and somebody who already has the skills and qualities t
 <br />
 <br />
 
-## Other Skills: 
+<h1>Other Skills: </h1>
   - Vue.js
   - MongoDB
   - Git: Github, Gitlab, Bitbucket
@@ -40,13 +28,13 @@ full-stack web developer and somebody who already has the skills and qualities t
   - Jira
   - Trello
 
-## personal skills:
+<h1>personal skills:</h1>
  - Strong team player
  - Excellent communication
  - Team Leader
  - Problem-solving 
 
-## Summary
+<h1>Summary:</h1>
 Junior full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. I have years of experience in web development using the latest frameworks and libraries such as Laravel, Node.js, Express.js, Nest.js, React.js, and Next.js. I also have team working and communication skills. and I also have an academic background that added to me  an extra value in this field.
 
 <br />
