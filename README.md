@@ -1,96 +1,81 @@
-<h1> Saleh T. Marouf </h1>
-<h5> Life doesn't have Ctrl-Z, but the code does.</h5>
-<p>
-full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience using state of art technologies. 
-</p>
-<h2>Skills: </h2>
-  - JavaScript
-<br />
-  - TypeScript
-<br />
-  - React.js
-<br />
-  - Next.js
-<br />
-  - JQuery
-<br />
-  - PHP Laravel
-<br />
-  - Express.js
-<br />
-  - NestJs
-<br />
-  - MySql
-<br />
-  - PostgreSQL.
-<br />
-<br />
+<h1 align="center">Saleh T. Marouf</h1>
+<h4 align="center"><em>“Life doesn't have Ctrl-Z, but code does.”</em></h4>
 
-<h2>Other Skills: </h2>
-  - Vue.js
-<br />
-  - MongoDB
-<br />
-  - Git: Github, Gitlab, Bitbucket
-<br />
-  - AWS S3
-<br />
-  - AWS Cognito
-<br />
-  - AWS serverless
-<br />
-  - AWS RDS
-<br />
-  - Jira
-<br />
-  - Trello
-<br />
-
-<h2>personal skills:</h2>
- - Strong team player
-<br />
- - Excellent communication
-<br />
- - Team Leader
-<br />
- - Problem-solving 
-<br />
-<br />
-
-<h2>Summary:</h2>
-Junior full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. I have years of experience in web development using the latest frameworks and libraries such as Laravel, Node.js, Express.js, Nest.js, React.js, and Next.js. I also have team working and communication skills. and I also have an academic background that added to me  an extra value in this field.
-
-<br />
-
-<h2 align="center">Quick Overview 📈</h2>
-  
-  <p align = "center">
- 
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=devstm&count_private=true&theme=dracula&hide_border=true" alt = "devstm's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=devstm&count_private=true&theme=dracula&hide_border=true" alt = "devstm's Rating" width = 400 >
-</p>
-
-<p align = "center">
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=devstm&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "devstm's Languages/Frameworks" width = 400 />
-</p>
-
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/devstm/count.svg"></img>
-</div>
-
-<br /><br />
-<h2 align="center">Let's Connect 😎</h2>
 <p align="center">
-  <a href = "mailto:stm1998@hotmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/saleh-t-marouf-a956b81a2/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
- 
+  Full-stack web developer with a solid academic background and hands-on experience in modern technologies. I bring both technical depth and strong interpersonal skills to every project I work on.
 </p>
 
+---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<h2>🛠️ Technical Skills</h2>
+
+**Core Technologies**  
+- JavaScript / TypeScript  
+- React.js / Next.js  
+- Express.js / NestJS  
+- PHP Laravel  
+- MySQL / PostgreSQL  
+- jQuery  
+
+**Additional Tools & Frameworks**  
+- Vue.js  
+- MongoDB  
+- Git (GitHub, GitLab, Bitbucket)  
+- AWS (S3, Cognito, Serverless, RDS)  
+
+---
+
+<h2>📋 Project Management & Collaboration</h2>
+
+- Jira  
+- Trello  
+- Agile/Scrum methodologies  
+- Strong communication & leadership  
+- Problem-solving mindset  
+- Team-oriented & collaborative  
+
+---
+
+<h2>📌 Summary</h2>
+full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. 
+I'm a full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience building scalable web applications using modern frameworks like Laravel, Node.js, Express.js, NestJS, React.js, and Next.js. My academic background in computer engineering complements my practical expertise, enabling me to understand and deliver robust technical solutions. I thrive in team environments, value collaboration, and am always eager to take on challenges and learn new technologies.
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devstm&count_private=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devstm&count_private=true&theme=dracula&hide_border=true" width="400" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devstm&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" width="400" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">👀 Profile Visitors</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/devstm/count.svg" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:stm1998@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/saleh-t-marouf-a956b81a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
