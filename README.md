@@ -1,81 +1,101 @@
-<h1 align="center">Saleh T. Marouf</h1>
-<h4 align="center"><em>“Life doesn't have Ctrl-Z, but code does.”</em></h4>
+<div align="center">
 
-<p align="center">
-  Full-stack web developer with a solid academic background and hands-on experience in modern technologies. I bring both technical depth and strong interpersonal skills to every project I work on.
-</p>
+```
+$ whoami
+Saleh Marouf — Senior Software Engineer
+Node.js · React · TypeScript · AWS
+Gaza, Palestine (Remote)
+```
 
----
+</div>
 
-<h2>🛠️ Technical Skills</h2>
+<div align="center">
 
-**Core Technologies**  
-- JavaScript / TypeScript  
-- React.js / Next.js  
-- Express.js / NestJS  
-- PHP Laravel  
-- MySQL / PostgreSQL  
-- jQuery  
+[![Portfolio](https://img.shields.io/badge/portfolio-devstm.github.io-4FC3B8?style=flat-square)](https://devstm.github.io)
+[![Email](https://img.shields.io/badge/email-salehmarouf%40hotmail.com-1F6F68?style=flat-square)](mailto:salehmarouf@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-saleh--t--marouf-1F6F68?style=flat-square)](https://linkedin.com/in/saleh-t-marouf)
 
-**Additional Tools & Frameworks**  
-- Vue.js  
-- MongoDB  
-- Git (GitHub, GitLab, Bitbucket)  
-- AWS (S3, Cognito, Serverless, RDS)  
+</div>
 
 ---
 
-<h2>📋 Project Management & Collaboration</h2>
+### about.me
 
-- Jira  
-- Trello  
-- Agile/Scrum methodologies  
-- Strong communication & leadership  
-- Problem-solving mindset  
-- Team-oriented & collaborative  
+```
+role         "Senior Software Engineer"
+experience   "4+ years"
+focus        ["microservices", "event-driven systems", "full-stack products"]
+mentoring    true
+```
 
----
-
-<h2>📌 Summary</h2>
-full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. 
-I'm a full-stack web developer and somebody who already has the skills and qualities to perform his job in an excellent manner. with years of experience building scalable web applications using modern frameworks like Laravel, Node.js, Express.js, NestJS, React.js, and Next.js. My academic background in computer engineering complements my practical expertise, enabling me to understand and deliver robust technical solutions. I thrive in team environments, value collaboration, and am always eager to take on challenges and learn new technologies.
+Senior software engineer building and scaling production systems across Node.js, TypeScript, React, and PHP. Hands-on experience transitioning monolithic applications into microservice architectures on AWS, designing event-driven and asynchronous pipelines, and mentoring junior engineers.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devstm&count_private=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devstm&count_private=true&theme=dracula&hide_border=true" width="400" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devstm&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" width="400" alt="Top Languages" />
-</p>
+- 🔭 Building microservices and event-driven pipelines on AWS Lambda, Step Functions, and SQS at **Yaffa Solutions**
+- 🌱 Deepening RAG / retrieval-augmented systems with pgvector and Supabase
+- 🧑‍🏫 Mentored two MERN-stack cohorts at **Gaza Sky Geeks** to 90%+ completion
 
 ---
 
-<h2 align="center">👀 Profile Visitors</h2>
+### stack.sys
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/devstm/count.svg" />
-</p>
+<div align="center">
 
----
+![Node.js](https://img.shields.io/badge/-Node.js-1F6F68?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1F6F68?style=flat-square)
+![React](https://img.shields.io/badge/-React-1F6F68?style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-1F6F68?style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-1F6F68?style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-1F6F68?style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1F6F68?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F6F68?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-1F6F68?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-1F6F68?style=flat-square)
 
-<h2 align="center">📬 Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:stm1998@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/saleh-t-marouf-a956b81a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</p>
+### projects/
+
+**Production Now** — Industrial IoT microservices
+Contributed to a 40+ microservice platform for real-time industrial production monitoring.
+`TypeScript` `Node.js` `AWS Lambda` `GraphQL`
+
+**Salez1** — Sales snapshot pipeline
+Snapshot processing pipeline orchestrated via AWS Step Functions and SQS-driven background jobs.
+`TypeScript` `Step Functions` `SQS` `HubSpot API`
+
+**[Genius in Supabase](https://github.com/devstm/genius-in-supabase)** — RAG documentation assistant
+Retrieval-augmented assistant over 10,000+ documentation chunks.
+`Next.js` `pgvector` `Supabase`
+
+**[BrilliantMove](https://github.com/devstm/brilliant-move)** — AI code reviewer
+GitHub PR review service using the GitHub Apps API and pgvector-based codebase retrieval.
+`TypeScript` `Supabase Edge Functions`
+
+---
+
+### stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devstm&show_icons=true&hide_title=true&theme=transparent&text_color=65625A&icon_color=1F6F68&title_color=1F6F68&border_color=E4E1D6)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+$ echo "reach out any time"
+email     salehmarouf@hotmail.com
+linkedin  /in/saleh-t-marouf
+portfolio devstm.github.io
+```
+
+</div>
