@@ -77,17 +77,6 @@ Retrieval-augmented assistant over 10,000+ documentation chunks.
 GitHub PR review service using the GitHub Apps API and pgvector-based codebase retrieval.
 `TypeScript` `Supabase Edge Functions`
 
----
-
-### stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devstm&show_icons=true&hide_title=true&theme=transparent&text_color=65625A&icon_color=1F6F68&title_color=1F6F68&border_color=E4E1D6)
-
-</div>
-
----
 
 <div align="center">
 
